@@ -2,9 +2,7 @@
 
 Companion code for:
 
-> **F. Yang**, "A Congruence-Based Constitutively Admissible Framework
-> for Transversely Isotropic Topology Optimization in Additive
-> Manufacturing," *Structural and Multidisciplinary Optimization*,
+> **F. Yang**, "Algebraic Coercivity in Transversely Isotropic Topology Optimization for Additive Manufacturing: A Kelvin--Mandel Spectral Framework," *Structural and Multidisciplinary Optimization*,
 > 2026.
 
 This repository reproduces all numerical experiments (Figures 3–6,
@@ -16,7 +14,7 @@ generation scripts.
 
 Reproducible code for the paper:
 
-> **Algebraically Guaranteed Positive-Definite Constitutive Interpolation for 3D Anisotropic Topology Optimization**
+> **Algebraic Coercivity in Transversely Isotropic Topology Optimization for Additive Manufacturing: A Kelvin--Mandel Spectral Framework**
 
 ## Quick Start
 

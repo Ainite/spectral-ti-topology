@@ -2,7 +2,7 @@
 
 Companion code for:
 
-> **F. Yang**, "Algebraic Coercivity in Transversely Isotropic Topology Optimization for Additive Manufacturing: A Kelvin--Mandel Spectral Framework," *Structural and Multidisciplinary Optimization*,
+> **F. Yang**, "Algebraic Coercivity in Transversely Isotropic Topology Optimization for Additive Manufacturing: A Kelvin--Mandel Spectral Framework," 
 > 2026.
 
 This repository reproduces all numerical experiments (Figures 3–6,

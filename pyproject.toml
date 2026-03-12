@@ -1,0 +1,21 @@
+[project]
+name = "spectral-ti-topology"
+version = "1.0.0"
+description = "Reproducible code for: Algebraically Guaranteed Positive-Definite Constitutive Interpolation for 3D Anisotropic Topology Optimization"
+requires-python = ">=3.9"
+dependencies = [
+    "numpy>=1.22",
+    "scipy>=1.9",
+    "matplotlib>=3.6",
+    "scikit-image>=0.19",
+]
+
+[project.optional-dependencies]
+dev = ["pytest", "ruff"]
+
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.backends._legacy:_Backend"
+
+[tool.setuptools.packages.find]
+where = ["src"]
